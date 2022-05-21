@@ -15,7 +15,7 @@ class Exception1
 
     int ans=no1/no2;
 
-    System.out.println("Division is :"+ans);
+    System.out.println("Division is :"+ans); //new commet
 
     sobj.close();
   }
